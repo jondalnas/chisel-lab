@@ -56,7 +56,7 @@ Hello World, I will now generate the Verilog files!
 Total FIRRTL Compile Time: 916.6 ms
 [success] Total time: 22 s, completed Jul 22, 2019 11:09:25 AM
 ```
-This is the output of the Chisel compiler und runtime. To see that the program
+This is the output of the Chisel compiler and runtime. To see that the program
 runs we provide a friendly greeting message, starting with the famous "Hallo World".
 If your design contains errors, you will see error messages in this window.
 
